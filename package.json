@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Git repo for educational puposes",
   "main": "index.js",
-  "repository": "https://github.com/almanasrarami/git-extended"
+  "repository": "https://github.com/almanasrarami/git-extended",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Rami Almanasra ramialmanasra@gmail.com",
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
   "config": {
     "commitizen":{
       "path": "cz-conventional-changelog"
